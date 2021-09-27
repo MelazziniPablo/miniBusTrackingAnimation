@@ -1,4 +1,4 @@
-// This array contains the coordinates for all mini bus stops between my House and La Loba Square
+// This array contains the coordinates for all mini bus stops between my House and La Loba Square in La Paz, Bolivia
 const busStops = [
   [-68.102232, -16.522718],
   [-68.103004, -16.523144],
@@ -15,7 +15,7 @@ const busStops = [
 ];
 
 // Add your own mapbox access token
-mapboxgl.accessToken = '';
+mapboxgl.accessToken = 'pk.eyJ1IjoibWVsYXp6aW5pcGFibG8iLCJhIjoiY2t0a3FxbDhxMW9qYzJvcDhydjQ2bHIxbiJ9.V9fzNdcyEQBXdnyGWfnLBg';
 
 // This is the map instance
 let map = new mapboxgl.Map({
