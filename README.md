@@ -3,7 +3,7 @@ A Map Animation
 ## Description of the projec:
 This is a map animation that shows, with a marker on a map, the different bus stops from my house to La Loba Square in La Paz, Bolivia.
 ## How to Run:
-You will need the Mapbox Access Token, to run the project if you would like to download all the files and change the code. As of now it will run with my mapbox token to show how it works.
+You will need the Mapbox Access Token, to run the project if you would like to download all the files and change the code. As of now it will run by pressing the top left button: Show mini Bus Tracking Animation, the code is with my mapbox token to show how it works.
 ## Roadmap of future improvements:
 You could change the map styles or add other longitude, latitude values.
 ## License information:
